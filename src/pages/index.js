@@ -15,6 +15,7 @@ const IndexPage = () => {
     }
     fetchData()
   }, [])
+
   return (
     <Layout>
       <SEO title="Home" />
